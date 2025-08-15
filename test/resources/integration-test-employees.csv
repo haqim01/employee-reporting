@@ -1,0 +1,14 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,69001,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+310,Garfield,Sobers,67908,305
+315,Viv,Richards,349853,305
+320,Ricky,Ponting,332423,305
+325,Mark,Waugh,45353,320
+330,Steve,Waugh,453245,320
+335,Richie,Richardson,34234,320
+340,Shahid,Afridi,34234,335
+345,Majid,Khan,343242,340
